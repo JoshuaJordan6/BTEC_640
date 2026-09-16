@@ -98,6 +98,7 @@ directory:
 >Applications			CreditCardValidator_HW_9	Documents			Movies				Public				SimUText 2023-2024
 btec_640			CreditCardValidator_HW_9-copy	Downloads			Music				Random Unorganized 		Zotero
 CreditCardValidator		Desktop				Library				Pictures			Rfiles
+
 >#-------------------------
 >#Command 3:
 >ls -l
